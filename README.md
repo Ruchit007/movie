@@ -1,2 +1,2 @@
-# Analysis-of-IMDb-Dataset
+# Analysis-of-IMDB-Dataset
 Movie dataset analysis using python
